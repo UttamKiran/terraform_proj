@@ -22,3 +22,6 @@ output "vpc_owner" {
    value="${aws_vpc.my_vpc.owner_id}"
 
 }
+output "vpc_dummy" {
+  
+  }
